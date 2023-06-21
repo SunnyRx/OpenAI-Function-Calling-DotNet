@@ -1,4 +1,4 @@
-# OpenaAI-Function-Calling-DotNet
+# OpenAI-Function-Calling-DotNet
 This is a simple example of using DotNet to use OpenAI Function Calling.
 
 Please refer to the comments in [Program.cs](https://github.com/SunnyRx/OpenaAI-Function-Calling-DotNet/blob/main/Program.cs) for an explanation of this example.

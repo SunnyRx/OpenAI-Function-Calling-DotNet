@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenaAI-Function-Calling-DotNet", "OpenaAI-Function-Calling-DotNet.csproj", "{A3230C39-C180-43EF-AE35-0E707C3952DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI-Function-Calling-DotNet", "OpenAI-Function-Calling-DotNet.csproj", "{A3230C39-C180-43EF-AE35-0E707C3952DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

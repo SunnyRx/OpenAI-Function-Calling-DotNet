@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net7.0</TargetFramework>
-        <RootNamespace>OpenaAI_Function_Calling_DotNet</RootNamespace>
+        <RootNamespace>OpenAI_Function_Calling_DotNet</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
